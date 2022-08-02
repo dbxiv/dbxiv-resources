@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1000">
+	<g transform="scale(1,-1) translate(0, -1000)">
+		<path d="M647 831h-298v-180h-180v-298h180v-180h298v180h180v298h-180v180zM767 592v-180h-179v-179h-180v179h-179v180h179v179h180v-179h179z" />
+	</g>
+</svg>
